@@ -57,7 +57,7 @@ There are no prerequisities to running our notebook. Simply inserting the notebo
 
 #### Notebooks
 
-There is a single Jupyter Notebook that contains both a walkthrough of the implementation as well as the implementation of the computational methods and the 5 examples [here](https://github.com/uhmwpe/causalExplanations/blob/master/CausalExplanations.ipynb). 
+There is a single Jupyter Notebook that contains both a walkthrough of the implementation as well as the implementation of the computational methods and the 5 examples [here](https://github.com/Apoorvadorai/Causal-Explanation-Generator/blob/master/CausalExplanations.ipynb). 
 
 
 ## References
